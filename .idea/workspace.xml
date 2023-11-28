@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fbfec313-ffe1-41b1-8c16-f4ea30c72fcd" name="Changes" comment="done!">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/snake.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/snake.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1701186548282</updated>
       <workItem from="1701186549678" duration="1873000" />
-      <workItem from="1701193073229" duration="3223000" />
+      <workItem from="1701193073229" duration="3568000" />
     </task>
     <task id="LOCAL-00001" summary="done!">
       <created>1701187598759</created>
@@ -128,7 +128,28 @@
       <option name="project" value="LOCAL" />
       <updated>1701198451571</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="done!">
+      <created>1701198699589</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1701198699589</updated>
+    </task>
+    <task id="LOCAL-00011" summary="done!">
+      <created>1701198797223</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1701198797223</updated>
+    </task>
+    <task id="LOCAL-00012" summary="done!">
+      <created>1701198896137</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1701198896137</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
