@@ -12,7 +12,7 @@
 
 ###
 
-<h1 align="center">Hey there 👋, I'm is Kirill</h1>
+<h1 align="center">Hey there 👋, I'm Kirill!</h1>
 
 ###
 
