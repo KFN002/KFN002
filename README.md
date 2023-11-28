@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif"  />
+  <img height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnhaOhFd9TMW5VCku1VZGWj2Pr9sYCBWtUUg&usqp=CAU"  />
 </div>
 
 ###
@@ -138,7 +138,7 @@
 
 ###
 
-![snake animation](https://github.com/KFN002/KFN002/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/KFN002/KFN002/output/snake.svg" alt="Snake animation" />
 
 ###
 
