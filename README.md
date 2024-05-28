@@ -84,7 +84,8 @@
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/19352526?s=200&v=4" height="40" alt="selenium logo"/>
 </div>
 
 ###
