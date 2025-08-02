@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="center">👩‍💻 About Me: 18 y.o. Yandex Lyceum student, junior backend dev & data scientist.</h3>
+<h3 align="center">👩‍💻 About Me: 19 y.o. Yandex Lyceum student, junior backend dev & data scientist.</h3>
 
 ###
 
